@@ -62,4 +62,6 @@ Example Call
 ```
 response = socket.recv_string()  # Receive the JSON string from the server
 ```
+# UML
+![umll drawio](https://github.com/user-attachments/assets/0c0e19c7-e6a1-42ff-9cec-c7bff8611693)
 
